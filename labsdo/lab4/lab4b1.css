@@ -1,0 +1,36 @@
+.e1{
+    color: red;
+}
+
+.e2{
+    color: blue;
+}
+
+.e3{
+    color: green;
+}
+
+.e4{
+    color: red;
+}
+
+i{
+    color: brown;
+}
+
+h1{
+    color: white;
+    text-shadow: 0 0 5px red;
+}
+
+body{
+    text-align: center;
+}
+
+em{
+    font-variant: small-caps;
+    font-size: 20px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    line-height: 25px;
+}

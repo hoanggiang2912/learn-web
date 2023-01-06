@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.column{
+    width: 25%;
+    height: 25%;
+    float: left;
+}
+
+.sanpham{
+    border-radius: 10px;
+    box-shadow: 0px 1px 5px 1px gray;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+.name{
+    font-size: larger;
+    font-variant: small-caps;
+    color: blue;
+}
+
+.sanpham img{
+    max-width: 95%;
+}
+
+.sanpham .price{
+    color: red;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.sanpham .price del{
+    color: gray;
+}

@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+img{
+    width: 500px;
+    height: 50%;
+    
+}
+
+.menu{
+    padding: 25px 0 25px 0;
+}
+
+.menu a{
+    font-variant: small-caps;
+    color: blue;
+    text-decoration: none;
+}
+
+.menu a:visited{
+    color: green;
+}
+
+.menu a:hover{
+    color: red;
+    text-decoration: underline;
+}
+
+a{
+    font-size: 50px;
+}
+
+hr{
+    margin: 0 50px 0 50px;
+}
